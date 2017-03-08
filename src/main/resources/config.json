@@ -1,0 +1,4 @@
+{
+  "className": "com.gslab.analytics.entry.MinMaxEntryPoint",
+  "methodName": "findMinMax"
+}
